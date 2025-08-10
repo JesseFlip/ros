@@ -1,6 +1,6 @@
 PyTexas Virtual Meetup - [Month Year] Schedule
 
-- **[Time]** - Join voice chat in #pre-and-post-meetup-chat
+- **[Time: 7PM CDT]** - Join voice chat in #pre-and-post-meetup-chat
 - **[Time]** - Launch Discord stage and event and migrate people from chat to stage
 - **[Time]** - Meetup!
   - Welcome and Announcements
@@ -17,7 +17,6 @@ Announcements -
 
 - Attendance - [Attendance Form Link]
 - Questions - [Questions Form Link]
-- [Folder Link]
 
 **Talk Title:** [Talk Title]
 ***Description*** [Talk Description]
@@ -48,4 +47,4 @@ Useful links
 - [PyTexas Foundation Site Link]
 - [PyTexas Conference Site Link]
 - [PyTexas Meetup Site Link]
-PyTexas Virtual Meetup - December 2024
+PyTexas Virtual Meetup - September 2025
